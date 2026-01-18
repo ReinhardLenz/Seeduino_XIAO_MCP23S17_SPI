@@ -14,6 +14,11 @@ This setup is useful when additional GPIOs are required beyond those available o
 <img width="919" height="1760" alt="circuit_image1" src="https://github.com/user-attachments/assets/84dc66ac-5d35-45b1-930b-f57fbc6825d7" />
 
 
+## Circuit photo with SAEAE 24MHz8CH Analyzer
+
+![mcp23s17](https://github.com/user-attachments/assets/44dc17a0-e6c1-4f30-8e0a-d59effb33b3a)
+
+
 ## Circuit Summary
 
 * **Microcontroller:** Seeeduino XIAO (SAMD21)
