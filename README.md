@@ -8,6 +8,11 @@ This setup is useful when additional GPIOs are required beyond those available o
 
 ---
 
+
+## Circuit diagram
+<img width="1000" height="1715" alt="circuit_image" src="https://github.com/user-attachments/assets/ef45a240-cfcd-48ca-8c4e-a5a1c35f087b" />
+
+
 ## Circuit Summary
 
 * **Microcontroller:** Seeeduino XIAO (SAMD21)
