@@ -16,7 +16,7 @@ This setup is useful when additional GPIOs are required beyond those available o
 
 ## Circuit photo with SAEAE 24MHz8CH Analyzer
 
-![mcp23s17](https://github.com/user-attachments/assets/44dc17a0-e6c1-4f30-8e0a-d59effb33b3a)
+![mcp23s17](https://github.com/user-attachments/assets/85eace06-94ac-44be-b27a-e6361845a788)
 
 
 ## Circuit Summary
