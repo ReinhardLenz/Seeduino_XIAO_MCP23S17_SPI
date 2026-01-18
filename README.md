@@ -160,3 +160,7 @@ The MCP23S17 datasheet should be consulted for register configuration details.
 ## License
 
 This project is provided as-is for educational and experimental use.
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=GyroVisor&color=green)
