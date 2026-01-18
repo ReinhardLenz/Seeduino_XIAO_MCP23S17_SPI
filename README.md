@@ -121,7 +121,16 @@ This configuration means the MCP23S17 GPIO pins **sink current** to turn the LED
 * No level shifting is required when using the Seeeduino XIAO.
 
 ---
+## Pulseview 
 
+<img width="1757" height="829" alt="pulseview" src="https://github.com/user-attachments/assets/047cb788-47ae-4466-95f6-c958844fb973" />
+
+*  CS =Chip Select, CLK = Clock, MOSI =Master Out, Slave In
+* SALEAE Connect to device  -> fxlawfw (generic driver for FX2 based LAs) (fx2lafw)
+* 16 , 24, 48 MHz sample frequency (with 16 Mhz you can sample very long time, but 24 is more accurate)
+* Samples 5G (when chose too much, the Chromebook, where Pulseview operates, get overloaded and stuck
+* Add protocol decoder- SPI
+---
 ## Code Notes
 
 No firmware is provided in this repository.
