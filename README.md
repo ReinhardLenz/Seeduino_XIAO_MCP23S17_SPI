@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to control external LEDs using an **MCP23S17 16-bit I/O expander** connected to a **Seeeduino XIAO (SAMD21)** microcontroller via **SPI**. The Seeeduino XIAO provides power and SPI control signals, while the MCP23S17 drives two green LEDs through current-limiting resistors.
+This project demonstrates how to control external LEDs using an **MCP23S17 16-bit I/O expander** connected to a **Seeeduino XIAO (SAMD21)** microcontroller via **SPI**. The Seeeduino XIAO provides power and SPI control signals, while the MCP23S17 drives two green LEDs through current-limiting resistors. My need is to create an input/output expansion that is not based on I2C. My attempts with I2C failed whenever more than one device was on the bus. I try to copy the experiments of    https://ameblo.jp/pta55/entry-12632213805.html
 
 This setup is useful when additional GPIOs are required beyond those available on the microcontroller.
 
