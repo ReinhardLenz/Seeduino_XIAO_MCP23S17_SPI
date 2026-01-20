@@ -14,6 +14,10 @@ This setup is useful when additional GPIOs are required beyond those available o
 <img width="919" height="1760" alt="circuit_image1" src="https://github.com/user-attachments/assets/84dc66ac-5d35-45b1-930b-f57fbc6825d7" />
 
 
+## MCP23S17 pin assignment
+
+<img width="464" height="411" alt="MCP23S17pin" src="https://github.com/user-attachments/assets/f55ef269-72b6-4646-b4d0-ec633964cd34" />
+
 ## Circuit photo with SAEAE 24MHz8CH Analyzer
 
 ![mcp23s17](https://github.com/user-attachments/assets/85eace06-94ac-44be-b27a-e6361845a788)
