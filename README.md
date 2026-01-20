@@ -125,8 +125,8 @@ This configuration means the MCP23S17 GPIO pins **sink current** to turn the LED
 * The entire circuit operates at **3.3 V**.
 * Ensure that the MCP23S17 is configured for 3.3 V operation.
 * No level shifting is required when using the Seeeduino XIAO.
-* It is important, that A0, A1, A2 of MCP23S17 are connected to GND. If RESET floats → the chip will randomly reset
-* Likewise, the Reset of MCP23S17 must be connected to 3.3V. If they float Device address randomly changes
+* It is important, that A0, A1, A2 of MCP23S17 are connected to GND. If they float Device address randomly changes
+* Likewise, the Reset of MCP23S17 must be connected to 3.3V. If RESET floats → the chip will randomly reset
 
 ---
 ## Pulseview 
